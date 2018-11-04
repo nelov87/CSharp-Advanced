@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Transfer", "Data Transfer\Data Transfer.csproj", "{6576D640-5A62-4756-BEEA-24B5EE8BB957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tagram", "Tagram\Tagram.csproj", "{91ADC7A9-B42B-486F-A1B9-01C92E881712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miner", "Miner\Miner.csproj", "{B23898F7-0A89-498D-9CE0-042FD456393F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6576D640-5A62-4756-BEEA-24B5EE8BB957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6576D640-5A62-4756-BEEA-24B5EE8BB957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6576D640-5A62-4756-BEEA-24B5EE8BB957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6576D640-5A62-4756-BEEA-24B5EE8BB957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91ADC7A9-B42B-486F-A1B9-01C92E881712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91ADC7A9-B42B-486F-A1B9-01C92E881712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91ADC7A9-B42B-486F-A1B9-01C92E881712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91ADC7A9-B42B-486F-A1B9-01C92E881712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23898F7-0A89-498D-9CE0-042FD456393F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23898F7-0A89-498D-9CE0-042FD456393F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23898F7-0A89-498D-9CE0-042FD456393F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23898F7-0A89-498D-9CE0-042FD456393F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60ABF8C6-E8D6-42BE-B807-CFD2D5E8FFDA}
+	EndGlobalSection
+EndGlobal
